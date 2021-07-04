@@ -60,3 +60,15 @@ Some theoritical links for gravitional lensing:
 - [Cosmic Microwave Background Explained | Space Time | PBS Digital Studios](https://youtu.be/3tCMd1ytvWg)
 - [What is the Cosmic Microwave Background?](https://www.universetoday.com/135288/what-is-the-cosmic-microwave-background/)
 - [Beyond WIMPs: Exploring Alternative Theories Of Dark Matter](https://www.universetoday.com/127971/weighing-dark-matter/)
+
+## Week 6: Black Holes
+This is far by the most interesting topic that I have enjoyed personally. There are tons of introductory videos that are avaliable out there and you can watch any of those as they have equally good animation, some of these I've linked below:
+
+- [Black Holes Explained – From Birth to Death](https://youtu.be/e-P5IFTqB98)
+- [The Ultimate Guide to Black Holes](https://youtu.be/QqsLTNkzvaY)
+- [Black Holes: Crash Course Astronomy #33](https://www.youtube.com/watch?v=qZWPBKULkdQ)
+
+Further, you can read about types of black holes from [here](https://spaceandbeyondbox.com/the-different-types-of-black-holes-and-how-they-form/). You can also read from these super nice blogs:
+
+- [Black Holes | Swin Astronomy](https://astronomy.swin.edu.au/cosmos/B/Black+Hole)
+- [Black Holes | NASA](https://science.nasa.gov/astrophysics/focus-areas/black-holes)
