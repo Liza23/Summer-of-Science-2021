@@ -37,3 +37,26 @@ You can check these links to get a basic idea about **Neutrinos**.
 
 This [Documentary - Neutrino Sun Particles - What Are Neutrinos](https://www.youtube.com/watch?v=k0RMnp3t46A) is a bit long but you can watch if you are interested.
 
+
+## Week 4: Gravitational Lensing
+Checkout these resources for reading gravitional lensing.
+
+- [Gravitional Lensing](https://hubblesite.org/contents/articles/gravitational-lensing)
+- [Gravitational lensing | AAS](https://www.science.org.au/curious/space-time/gravitational-lensing)
+- [WHAT IS GRAVITATIONAL LENSING?](https://sci.esa.int/web/euclid/-/what-is-gravitational-lensing-)
+- [Gravitional Lensing](https://youtu.be/4Z71RtwoOas)
+
+Some theoritical links for gravitional lensing:
+
+- [Gravitional Lensing](https://web.pa.msu.edu/people/abdo/GravitationalLensing.pdf)
+- [Gravitational Lensing Theory](http://spiff.rit.edu/classes/phys240/lectures/grav_lens/grav_lens.html)
+
+## Week 5: The Cosmic Microwave Background, WIMPs and Supersymmetry
+
+- [Weakly interacting massive particles](https://en.wikipedia.org/wiki/Weakly_interacting_massive_particles)
+- [WIMPs and Supersymmetry](https://www.wondrium.com/wimps-and-supersymmetry)
+- [The 'WIMP Miracle' Hope For Dark Matter Is Dead](https://www.forbes.com/sites/startswithabang/2019/02/22/the-wimp-miracle-is-dead-as-dark-matter-experiments-come-up-empty-again/?sh=3c95cb56dbc6)
+- [Cosmic Microwave Background: Remnant of the Big Bang](https://www.space.com/33892-cosmic-microwave-background.html)
+- [Cosmic Microwave Background Explained | Space Time | PBS Digital Studios](https://youtu.be/3tCMd1ytvWg)
+- [What is the Cosmic Microwave Background?](https://www.universetoday.com/135288/what-is-the-cosmic-microwave-background/)
+- [Beyond WIMPs: Exploring Alternative Theories Of Dark Matter](https://www.universetoday.com/127971/weighing-dark-matter/)
