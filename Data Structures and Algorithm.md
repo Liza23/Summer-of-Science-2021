@@ -23,3 +23,24 @@ These are basic most algorithms to know when studying DSA and come handy while s
 
 - [GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 - [InterviewBit](https://www.interviewbit.com/tutorial/sorting-algorithms/)
+
+## Week 4: Object Oriented Programming 
+Object Oriented programming (OOP) is a programming paradigm that relies on the concept of classes and objects. And, it is usually a good practice to know OOPs as it makes the code modular, flexible and more efficient. Do read encapsulation and inheritence.
+
+- [Introduction to OOPS in C++](https://www.w3schools.com/cpp/cpp_oop.asp)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+- [Full Course on OOPS](https://youtu.be/wN0x9eZLix4)
+
+## Week 5: Dynamic Memory Management
+Dynamic memory allocation is when an executing program requests that the operating system give it a block of main memory. The program then uses this memory for some purpose. Usually the purpose is to add a node to a data structure. It is also an important concept in OOPs, so follow these links below:
+
+- [TutorialsPoint](https://www.tutorialspoint.com/cplusplus/cpp_dynamic_memory.htm)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/)
+- [Programiz](https://www.programiz.com/cpp-programming/memory-management)
+
+## Week 6: Time Analysis of Algorithms
+In theoretical analysis of algorithms, it is common to estimate their complexity in the asymptotic sense, i.e., to estimate the complexity function for arbitrarily large input. So, it is a good point to start with asymptotic analysis and notations which will help you understand the algorithms better later.
+
+- [Introduction to Time Analysis](https://youtu.be/9TlHvipP5yA)
+- [Hackerearth](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
