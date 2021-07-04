@@ -26,3 +26,39 @@ Further, you can read about types of black holes from [here](https://spaceandbey
 
 - [Black Holes | Swin Astronomy](https://astronomy.swin.edu.au/cosmos/B/Black+Hole)
 - [Black Holes | NASA](https://science.nasa.gov/astrophysics/focus-areas/black-holes)
+
+## Week 4: Neutron Stars
+A neutron star is the collapsed core of a massive supergiant star, which had a total mass of between 10 and 25 solar masses, possibly more if the star was especially metal-rich. Except for black holes, and some hypothetical objects (e.g. white holes, quark stars, and strange stars), neutron stars are the smallest and densest currently known class of stellar objects. Start with the Wiki article and then follow the articles/ videos!
+
+- [Neutron Stars | Wikipedia](https://en.wikipedia.org/wiki/Neutron_star)
+- [Neutron Stars – The Most Extreme Things that are not Black Holes](https://youtu.be/udFxKZRyQt4)
+- [Neutron Stars: Crash Course Astronomy #32](https://youtu.be/RrMvUL8HFlM)
+- [Neutron Stars Introduction](https://astronomy.swin.edu.au/cosmos/N/Neutron+Star)
+
+This is an interesting video on Neutron Stars which you can watch -- [What If a Spoonful of Neutron Star Appeared on Earth?](https://youtu.be/XVXrDX9zwfM)!
+
+## Week 5: Active Galatic Nucleus
+An active galactic nucleus (AGN) is a compact region at the center of a galaxy that has a much-higher-than-normal luminosity over at least some portion of the electromagnetic spectrum with characteristics indicating that the luminosity is not produced by stars. Such excess non-stellar emission has been observed in the radio, microwave, infrared, optical, ultra-violet, X-ray and gamma ray wavebands. Again, start with Wiki article and follow along!
+
+- [Active Galatic Necleus](https://en.wikipedia.org/wiki/Active_galactic_nucleus)
+- [Active Galactic Nuclei (Intro Astronomy module 13, lecture 7)](https://youtu.be/X7kzOm7dbPE)
+- [What Are Active Galactic Nuclei?](https://webbtelescope.org/resource-gallery/articles/pagecontent/filter-articles/what-are-active-galactic-nuclei?filterUUID=a776e097-0c60-421c-baec-1d8ad049bfb0)
+
+**Quasars** and **Pulsars** are a class of active galactic nuclei (AGN). So read about these as well!
+
+- [What is a Quasar | Active Galactic Nucleus](https://youtu.be/cKWCFJ_HPck)
+- [Why Quasars are so Awesome | Space Time](https://youtu.be/3TZEp_n3eIc)
+- [What Is A Quasar?](https://youtu.be/fThGKOgSo5I)
+- [What Are Pulsars?](https://www.space.com/32661-pulsars.html)
+- [NASA | What is a Pulsar?](https://youtu.be/gjLk_72V9Bw)
+- [Pulsars and Neutron Stars](https://youtu.be/oLoLey75i2k)
+
+## Week 6: Supernovas
+A **supernova** is a powerful and luminous stellar explosion. This transient astronomical event occurs during the last evolutionary stages of a massive star or when a white dwarf is triggered into runaway nuclear fusion. 
+
+- [Supernova | Wiki](https://en.wikipedia.org/wiki/Supernova)
+- [What Is a Supernova?](https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-supernova.html)
+- [What is a supernova? | Space Center Houston](https://spacecenter.org/what-is-a-supernova/)
+- [Less Than Five - What is a Supernova?](https://youtu.be/YIKXvDlf8_0)
+- [What If a Supernova Exploded Close to Earth?](https://youtu.be/Uyh4JP1ELpY)
+- [Scientists Have an Update on Betelgeuse You Shouldn't Miss](https://youtu.be/JYIdW_1XFj0)
