@@ -62,3 +62,11 @@ A **supernova** is a powerful and luminous stellar explosion. This transient ast
 - [Less Than Five - What is a Supernova?](https://youtu.be/YIKXvDlf8_0)
 - [What If a Supernova Exploded Close to Earth?](https://youtu.be/Uyh4JP1ELpY)
 - [Scientists Have an Update on Betelgeuse You Shouldn't Miss](https://youtu.be/JYIdW_1XFj0)
+
+## Week 7: Wrap Up!
+Gravitation waves are a hot topic currently after their recent confirmation of existence and it would be good topic to look at to wrap the project. Checkout these links:
+
+- [What are GW?](https://www.ligo.caltech.edu/page/what-are-gw)
+- [Gravitational waves everything you need to know](https://stfc.ukri.org/news-events-and-publications/features/gravitational-waves-everything-you-need-to-know/)
+- [Gravitational Waves](https://spaceplace.nasa.gov/gravitational-waves/en/)
+- [Gravitational Waves Explained](https://youtu.be/4GbWfNHtHRg)
