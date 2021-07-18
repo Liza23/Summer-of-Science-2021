@@ -44,3 +44,17 @@ In theoretical analysis of algorithms, it is common to estimate their complexity
 - [Introduction to Time Analysis](https://youtu.be/9TlHvipP5yA)
 - [Hackerearth](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
+
+## Week 7: Binary Search Trees + Wrap Up!
+First, you should look up what [Binary Trees](https://www.geeksforgeeks.org/binary-tree-data-structure/) are. This is a very useful data structure and would be good thing to wrap up with. They are a bit difficult to understand so take your time.
+
+Some sources for Binary Trees:
+
+- [Binary Trees](https://www.javatpoint.com/binary-tree)
+- [Binary Trees Tutorial](https://youtu.be/vvey2QCs98o)
+
+BST or Binary Search Trees are the most useful types of Binary Trees. Follow these resources:
+
+- [GeeksForGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+- [BST](https://www.youtube.com/watch?v=lFq5mYUWEBk)
+- [LeetCode](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/) -- very comprehensive, you can skip this if you feel this is difficult.
