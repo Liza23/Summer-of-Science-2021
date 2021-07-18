@@ -72,3 +72,9 @@ Further, you can read about types of black holes from [here](https://spaceandbey
 
 - [Black Holes | Swin Astronomy](https://astronomy.swin.edu.au/cosmos/B/Black+Hole)
 - [Black Holes | NASA](https://science.nasa.gov/astrophysics/focus-areas/black-holes)
+
+## Week 7: Wrap Up!
+For the wrap up, it's good to check out what the ongoing research in dark matter is. You can checkout these links which are a repository so you can read *some* of the articles that catch your eye.
+
+- [Science Daily](https://www.sciencedaily.com/news/space_time/dark_matter/)
+- [Nature Portfolio](https://www.nature.com/subjects/dark-energy-and-dark-matter)
